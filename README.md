@@ -40,7 +40,8 @@
 
   🔗 Repository: https://github.com/swAleksy/ttrpg-helper-proj
 
-  ---
-  
-  🚧 <b>UNDER CONSTRUCTION</b> 🚧
+  ### Yii2-rest-api-stub
+  <p align="center">🚧<b>UNDER CONSTRUCTION</b>🚧</p>
+
+  🔗 Repository: https://github.com/pBialek99/yii2-rest-api-stub
 </p>
