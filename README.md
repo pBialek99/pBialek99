@@ -29,13 +29,13 @@
   ### TTRPG Helper
   University team project for managing tabletop RPG sessions and campaign.
   
-  **My contribution**
+  **My contribution:**
   - Initial project concept and module design
   - Backend feature implementation
   - Database design and integration
   - Data seeding
 
-  **Tech stack**
+  **Tech stack:**
   `C#`, `.NET`, `PostgreSQL`
 
   🔗 Repository: https://github.com/swAleksy/ttrpg-helper-proj
