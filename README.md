@@ -39,6 +39,8 @@
   `C#`, `.NET`, `PostgreSQL`
 
   🔗 Repository: https://github.com/swAleksy/ttrpg-helper-proj
+
+  ---
   
   🚧 <b>UNDER CONSTRUCTION</b> 🚧
 </p>
